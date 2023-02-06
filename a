@@ -1,0 +1,30 @@
+[33mcommit 09686ea706b0bb707f6ac4f8907169e0c14a8f19[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mbr0[m[33m)[m
+Author: rendoip <rendoip2223daw2@proton.me>
+Date:   Mon Feb 6 16:40:58 2023 +0100
+
+    Afegint el fitxer README al projecte mitjana00.c
+
+[33mcommit cd4266c802c0c52a85c24afefe4e1691316b3c4b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/br0[m[33m)[m
+Merge: 9c9b871 6dd5162
+Author: rendoip <rendoip2223daw2@proton.me>
+Date:   Mon Feb 6 16:35:35 2023 +0100
+
+    Conflicte entre main i br0 solucionat
+
+[33mcommit 9c9b8717b89db99ff26794ae10fa3efd1e8a0627[m
+Author: rendoip <rendoip2223daw2@proton.me>
+Date:   Mon Feb 6 16:29:55 2023 +0100
+
+    Conflicte 1 entre main i br0
+
+[33mcommit 6dd5162cf36270c9d452d0c500dcc0e0d5013fb2[m
+Author: rendoip <rendoip2223daw2@proton.me>
+Date:   Mon Feb 6 16:27:34 2023 +0100
+
+    Conflicte 1 entre br0 i main
+
+[33mcommit 756d028d765dddd24901d0c56194495a97afe965[m
+Author: rendoip <rendoip2223daw2@proton.me>
+Date:   Mon Feb 6 16:19:14 2023 +0100
+
+    Versió 1 del projecte mitjana00
